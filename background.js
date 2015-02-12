@@ -1,4 +1,4 @@
-// this function returns today's date in foratm %Y-%m%-%d (ie 2013-08-22). 
+// this function returns today's date in format %Y-%m%-%d (ie 2013-08-22). 
 function datestamp() {
     var today = new Date()    
     var day = today.getDate()
